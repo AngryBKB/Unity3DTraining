@@ -153,4 +153,5 @@
 >* [docutranslate - 文档（小说、论文、字幕）翻译工具](https://github.com/xunbu/docutranslate)
 >* [easyVoice - 开源文本转语音工具，支持超长文本，多角色配音](https://github.com/cosin2077/easyVoice)
 >* [DeepSpec - a full-stack codebase for training and evaluating speculative decoding algorithms](https://github.com/deepseek-ai/DeepSpec)
->* [deepwiki-open Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories](https://github.com/AsyncFuncAI/deepwiki-open)  
+>* [deepwiki-open Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories](https://github.com/AsyncFuncAI/deepwiki-open)
+>* [DeepWiki](https://deepwiki.com/)  
