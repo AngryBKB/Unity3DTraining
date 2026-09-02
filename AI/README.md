@@ -132,7 +132,8 @@
 >* [agent-framework - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
 >* [Locus-The open source Unity Dev Agent](https://github.com/r1n7aro/Locus)
 >* [gstack - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA](https://github.com/garrytan/gstack)
->* [cindy - 心动网络 开源、开箱即用的 AI Agent](https://github.com/makecindy/cindy)  
+>* [cindy - 心动网络 开源、开箱即用的 AI Agent](https://github.com/makecindy/cindy)
+>* [grok-build](https://github.com/xai-org/grok-build)  
 
 ### Document  
 >* [Cursor Tutorial](https://cursor.com/cn/learn/how-ai-models-work)
